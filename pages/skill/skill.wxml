@@ -1,0 +1,133 @@
+<scroll-view scroll-y class="scrollPage">
+
+  <view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-mauve"></text>数据集成
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-mauve" style="width:{{loading?'70%':''}};">70%</view>
+    </view>
+  </view>
+</view>
+
+<view>
+  <view class="cu-bar bg-white solid-bottom padding-top">
+    <view class="action">
+      <text class="cuIcon-title text-blue"></text>数据存储
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-blue" style="width:{{loading?'70%':''}};">70%</view>
+    </view>
+  </view>
+</view>
+
+<view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-orange"></text>数据建模
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-orange" style="width:{{loading?'70%':''}};">70%</view>
+    </view>
+  </view>
+</view>
+
+<view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-green"></text>数据治理
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-green" style="width:{{loading?'70%':''}};">70%</view>
+    </view>
+  </view>
+</view>
+
+<view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-yellow"></text>数据开发
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-yellow" style="width:{{loading?'70%':''}};">70%</view>
+    </view>
+  </view>
+</view>
+
+<view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-olive"></text>数据监控
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-olive" style="width:{{loading?'70%':''}};">70%</view>
+    </view>
+  </view>
+</view>
+
+<view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-cyan"></text>大数据组件运维
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-cyan" style="width:{{loading?'70%':''}};">70%</view>
+    </view>
+  </view>
+</view>
+
+<view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-pink"></text>大数据架构
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-pink" style="width:{{loading?'80%':''}};">80%</view>
+    </view>
+  </view>
+</view>
+
+
+<view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-purple"></text>前端开发
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-purple" style="width:{{loading?'50%':''}};">50%</view>
+    </view>
+  </view>
+</view>
+
+<view>
+  <view class="cu-bar bg-white solid-bottom">
+    <view class="action">
+      <text class="cuIcon-title text-brown"></text>Web开发
+    </view>
+  </view>
+  <view class="padding bg-white padding-style">
+    <view class="cu-progress round striped active">
+      <view class="bg-brown" style="width:{{loading?'60%':''}};">60%</view>
+    </view>
+  </view>
+</view>
+</scroll-view>

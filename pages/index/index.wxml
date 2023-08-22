@@ -1,0 +1,58 @@
+<view class="cu-timeline">
+  <view class="cu-item text-blue">
+    <view class="bg-gradual-blue content shadow">
+      <view class="text-df padding-bottom-xs">区块链科技有限公司</view>
+      <view class="text-df padding-bottom-xs">数字新基建事业部</view>
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-blue">架构师</view>
+        <view class="cu-tag line-white">2017.11-至今</view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view class="text-justify">1.结合区块链金融的业务场景，完善核心业务平台的相关产品创新和维护；</view>
+        <view class="text-justify">2.深入理解业务，技术驱动产品发展，推动业务，产品，开发进行项目攻关，能够对项目做技术规划；</view>
+        <view class="text-justify">3.规划系统功能、模块，能够做功能分解并独立带领团队完成任务直至上线。组织核心成员对现有系统的不足进行分析，找出问题，推动解决；</view>
+        <view class="text-justify">4.参与移动端H5、小程序，应用框架体系建设以及前端工程体系建设。钻研各种前沿技术和创新交互，增强用户体验、开拓前端能力边界。</view>
+      </view>
+    </view>   
+  </view>
+
+  <view class="cu-item text-blue">
+    <view class="bg-gradual-blue content shadow">
+      <view class="text-df padding-bottom-xs">三一重工股份有限公司</view>
+      <view class="text-df padding-bottom-xs">流程信息化总部</view>
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-blue">前端开发</view>
+        <view class="cu-tag line-white">2015.11-2017.11</view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view class="text-justify">1.负责公司重要项目使用H5移动端进行前端开发，前端框架的搭建，前端开发规范制作；</view>
+        <view class="text-justify">2.采用前后端分离，与后台开发人员进行接口文档讨论及接口联调；</view>
+        <view class="text-justify">3.负责官网整站界面的前端开发使用angularjs框架，进行js数据交互；</view>
+        <view class="text-justify">4.与产品部、设计体验部、开发部针对工作项目进展进行有效沟通及协作，并对自己组内人员进行合理的分工；</view>
+        <view class="text-justify">5.有微信公众号的二次开发及小程序开发项目经验；</view>
+        <view class="text-justify">6.使用vuejs前端框架开发移动单页面应用程序项目；</view>
+      </view>
+    </view>   
+  </view>
+ 
+  <view class="cu-item text-blue">
+    <view class="bg-gradual-blue content shadow">
+      <view class="text-df padding-bottom-xs">广东新快报社</view>
+      <view class="text-df padding-bottom-xs">新媒体开发部</view>
+      <view class="cu-capsule radius">
+        <view class="cu-tag bg-white text-blue">前端开发</view>
+        <view class="cu-tag line-white">2012.06-2015.11</view>
+      </view>
+      <view class="margin-top-sm text-content">
+        <view class="text-justify">1.根据客户要求设计制作专题页面及banner广告，将设计效果图转成页面最终上线；</view>
+        <view class="text-justify">2.官网广告、海报的设计，及CMS后台的管理与维护；</view>
+        <view class="text-justify">3.负责公司大型网站项目的整站设计制作，增加JS特效，及代码的优化，各主流浏览器的兼容解决，后续的维护；</view>
+        <view class="text-justify">4.手机版WAP页面的设计开发制作（包括手机小游戏的设计开发），适应各种手机版本分辨率如Android、ios等；</view>
+        <view class="text-justify">5.根据公司要求使用discuz论坛系统进行二次开发网站项目。</view>
+      </view>
+    </view>   
+  </view>
+
+</view>
+
+
