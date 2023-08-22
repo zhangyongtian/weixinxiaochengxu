@@ -14,3 +14,14 @@
 > 选择的时候可以用云服务也可以不选。
 
 ## 然后修改完以后上线
+
+## 大佬的博客
+
+> https://blog.csdn.net/qq_15041931/article/details/106178226
+
+> https://github.com/jackchen0120/wxResume
+
+## 多关注大佬
+
+![开发者工具](https://img-blog.csdnimg.cn/20200531011333650.png#pic_center?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE1MDQxOTMx,size_16,color_FFFFFF,t_70)
+
