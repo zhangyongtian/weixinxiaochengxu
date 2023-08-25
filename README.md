@@ -1,5 +1,5 @@
 # weixinxiaochengxu
-微信小程序
+微信小程序简历（可以发布成功，直接运行上传提交审核就行）
 ##  下载小程序开发工具
 
 > https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
